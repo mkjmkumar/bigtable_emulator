@@ -1,0 +1,3 @@
+project = mwpfin
+instance = emu-instance
+creds = /creds_dummy.json
